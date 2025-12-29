@@ -3,7 +3,7 @@ Hi, I am Sajjad karim
 <img src="./gifs/wave.gif" width="35">
 </h1>
 <b>  
- A passionate frontend web developer specializing in React.js. With a keen eye for design and a love for clean, efficient code, I craft seamless & user-friendly.
+ A passionate frontend web developer specializing in React.js / Next.js. With a keen eye for design and a love for clean, efficient code, I craft seamless & user-friendly.
 <img src="./gifs/coder.gif" width="35">
 </b>
 
